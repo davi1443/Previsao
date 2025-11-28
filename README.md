@@ -71,3 +71,7 @@ Visualize o App:
 O terminal exibirá um QR Code.
 
 Use o aplicativo Expo Go no seu celular (iOS ou Android) para escanear o código e carregar o app.
+
+Tela:
+![Imagem do WhatsApp de 2025-11-28 à(s) 00 23 34_37bcbc01](https://github.com/user-attachments/assets/a88121a5-9610-4536-bf9b-fa1b9a5eb1fc)
+
