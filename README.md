@@ -51,7 +51,7 @@ Siga os passos abaixo para clonar o repositório e iniciar o aplicativo:
 Clone o Repositório:
 
 git clone [SEU_LINK_DO_REPOSITORIO]
-cd PrevisaoDoTempoSimples
+cd Clima
 
 
 Instale as Dependências:
